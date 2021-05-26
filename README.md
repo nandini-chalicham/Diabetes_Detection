@@ -10,5 +10,6 @@ Diabetes is an incurable disease, affects a sizable portion of the human populat
 7. Diabetes pedigree function
 8. Age(years)
 9. Class variable (0 or 1)
+
 Here the input data is taken from the column 1 to 8 and the ouput is given in the form of binary which indicates 1 as yes and 0 as no.
 By the above factors and terms the prediction is made and accurate ouput is given by the model.
